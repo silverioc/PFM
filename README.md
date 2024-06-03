@@ -1,2 +1,2 @@
 # PFM
-Git para Proyecto Fin Master Big Datra Deportivo
+Git para Proyecto Fin Master Big Data Deportivo
